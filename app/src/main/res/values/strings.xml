@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Material Card</string>
+
+
+    <string name="details">Details</string>
+    <string name="play">PLAY</string>
+    <string name="my">MY</string>
+
+
 </resources>
